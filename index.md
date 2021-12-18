@@ -25,7 +25,7 @@ Course leader: Jim Dobson. This project required us to build a a multibody plane
 
 1. __Growing Flags with Fractal Proteins__
 Supervised by Peter Bentley. The phenotypes of biological organisms are incredibly complex. Comparitively, the amount of genetic material is extremely small. This project investigated artificial models of development which permit compact genetic representations, from both a conceptual and experimental
-standpoint. The full dissertation report can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/GrowingFlagsWithFractals), along with [code](https://github.com/harrybooth/FractalDevelopment) and supporting [notebooks](). Stay tuned for the paper, which we are aiming to publish in the [Journal Of Artificial Life](https://direct.mit.edu/artl).  
+standpoint. The full dissertation report can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/GrowingFlagsWithFractals), along with [code](https://github.com/harrybooth/FractalDevelopment) and supporting [notebooks](https://github.com/harrybooth/FractalDevelopmentExperiments). Stay tuned for the paper, which we are aiming to publish in the [Journal Of Artificial Life](https://direct.mit.edu/artl).  
 
 ## Current and Future Projects
 
