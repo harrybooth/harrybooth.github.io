@@ -22,12 +22,14 @@ Course leader: Martha Tsigkari. 7 mini projects, incl. 3D game of life, L-System
 ### Dissertation
 
 1. __Growing Flags with Fractal Proteins__
-Supervised by Peter Bentley. The mapping from genotype to phenotype in natural evolution is a development
-growth process. This project investigated artificial models of development which permit compact genetic representations, from both a conceptual and experimental
-standpoint. The original dissertation can be found [Link](url). Stay tuned for the paper which is due to appear in the journal of artificial life in 2022 - [Link](url)._  
+Supervised by Peter Bentley. The phenotypes of biological organisms are incredibly complex. Comparitively, the amount of genetic material is extremely small. This project investigated artificial models of development which permit compact genetic representations, from both a conceptual and experimental
+standpoint. The original dissertation can be found [Link](url). Stay tuned for the paper which is due to appear in the journal of artificial life in 2022 - [Link](url).  
 
 ## Current and Future Projects
 
 1. __Process music with Julia__
-2. __Fractal Development__ 
-3. __Wikipedia steiner graphs__
+Steve Reich defines process music not as, "the process of composition but rather pieces of music that are, literally, processes." I am interested in exploring the concept of music emerging from computational processes, in particular artificial development systems. I intend to implement these experiments using [Julia Music](url)
+3. __Fractal Development Systems__ 
+I intend to further develop ideas from my dissertation. In particular I would like to extend the multi-cellular model into 3D, and develop more complex forms. I also intend to refine further the fractal protein mechanisms. 
+5. __Wikipedia steiner graphs__
+Inspired by the game of "wiki-surfing", the aim is to build a program which constructs an approximate (as NP-hard) steiner tree given a collection of topics on wikipedia. 
