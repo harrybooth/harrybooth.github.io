@@ -10,14 +10,14 @@ This section describes some example projects I completed as part of the course. 
 
 ###  Final Course Projects
 
-___High Performance Computing in Python : 10 digit challenge___
-_This project aimed to 
-___Numerical Optimisation : Support Vector Machines___
-_This project aimed to 
-___Inverse Problems : Regularization, wavelet denoiser and poission noise model___
-_This project aimed to 
-___Morphogenetic Programming:___
-_This project aimed to 
+1. __High Performance Computing in Python : 10 digit challenge__
+_This project aimed to_ 
+2. __Numerical Optimisation : Support Vector Machines__
+_This project aimed to_ 
+3. __Inverse Problems : Regularization, wavelet denoiser and poission noise model__
+_This project aimed to_
+4. __Morphogenetic Programming:__
+_This project aimed to_
 
 ### Dissertation
 
@@ -26,6 +26,6 @@ _This project aimed to . Stay tuned for the paper which is due to appear in the 
 
 ## Current and Future Projects
 
-#### Process music with Julia
-#### Fractal Development 
-#### Wikipedia steiner graphs
+__Process music with Julia__
+__Fractal Development__ 
+__Wikipedia steiner graphs__
