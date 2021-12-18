@@ -10,11 +10,11 @@ This section describes some example projects I completed as part of the course. 
 
 ###  Final Course Projects
 
-1. __High Performance Computing in Python : In the moment of heat__
+1. __High Performance Computing in Python - In the moment of heat:__
 This project required us to solve one of the problems from the [Hundred-dollar, Hundred-digit Challenge](https://en.wikipedia.org/wiki/Hundred-dollar,_Hundred-digit_Challenge_problems). This was a competition based around a collection of 10 difficult problems in numerical mathematics published by Nick Trefethem in 2002. Each problem has a single numeric answer, and the original contest involved multiple teams competing to obtain as many accurate digits as possible across the 10 problems. We were tasked with solving problem 8 - "In the moment of heat" - using only python. The jupyter notebook with my solution can be found [here](), which achieves 10 accurate digits.
-2. __Numerical Optimisation : Support Vector Machines__
+2. __Numerical Optimisation - Support Vector Machines:__
 This project required us to research two optimization methods within the context of support vector machines, and produce a study involving some computational experiments. I chose SMO (sequential minimal optimization) and stochastic gradient descent. My report achieved the maximum mark, and can be found [here](). 
-3. __Inverse Problems : Regularization, wavelet denoiser and poission noise model__
+3. __Inverse Problems - Regularization, wavelet denoiser and poission noise models:__
 _This project aimed to_
 4. __Morphogenetic Programming:__
 _This project aimed to_
