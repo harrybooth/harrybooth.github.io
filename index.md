@@ -15,14 +15,16 @@ Course leader: Timo Betcke. This project required us to solve one of the problem
 2. __Numerical Optimisation - Support Vector Machines:__
 Course leader: Marta Betcke. This project required us to research two optimization methods within the context of support vector machines, and produce a study involving some computational experiments. I chose SMO (sequential minimal optimization) and stochastic gradient descent. My report achieved the maximum mark, and can be found [here]() along with supporting notebooks. 
 3. __Inverse Problems - Regularization, Wavelet Denoisers and Poission Noise Models:__
-Course leader: Simon Arridge. This project required us to solve a variety of computational problems from a selection of topics from inverse problems. My report can be found [here]() along with supporting notebooks.
+Course leader: Simon Arridge. This project required us to solve a variety of computational problems from a inverse problems selection of topics. My report can be found [here]() along with supporting notebooks.
 4. __Morphogenetic Programming:__
-Course leader: Martha Tsigkari. 7 mini projects, incl. 3D game of life, L-Systems, Genetic algorithms, and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. 
+Course leader: Martha Tsigkari. 7 mini projects, incl. 3D game of life, L-Systems, Genetic algorithms, and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. Scripts and animations can be found [here](). 
 
 ### Dissertation
 
 1. __Growing Flags with Fractal Proteins__
-Supervised by Peter Bentley. This project aimed to . The original dissertation can be found [Link](url). Stay tuned for the paper which is due to appear in the journal of artificial life in 2022 - [Link](url)._  
+Supervised by Peter Bentley. The mapping from genotype to phenotype in natural evolution is a development
+growth process. This project investigated artificial models of development which permit compact genetic representations, from both a conceptual and experimental
+standpoint. The original dissertation can be found [Link](url). Stay tuned for the paper which is due to appear in the journal of artificial life in 2022 - [Link](url)._  
 
 ## Current and Future Projects
 
