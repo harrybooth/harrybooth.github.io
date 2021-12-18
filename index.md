@@ -28,8 +28,8 @@ standpoint. The original dissertation can be found [Link](url). Stay tuned for t
 ## Current and Future Projects
 
 1. __Process music with Julia__
-Steve Reich defines process music not as, "the process of composition but rather pieces of music that are, literally, processes." I am interested in exploring the concept of music emerging from computational processes, in particular artificial development systems. I intend to implement these experiments using [Julia Music](url)
+Steve Reich defines process music not as, "the process of composition but rather pieces of music that are, literally, processes." I am interested in exploring the concept of music emerging from computational processes, in particular artificial development systems. I intend to implement these experiments using [Julia Music](https://github.com/JuliaMusic).
 3. __Fractal Development Systems__ 
-I intend to further develop ideas from my dissertation. In particular I would like to extend the multi-cellular model into 3D, and develop more complex forms. I also intend to refine further the fractal protein mechanisms. 
+I intend to further develop ideas from my dissertation. In particular I would like to extend the multi-cellular model into 3D, and develop more complex forms. I also intend to refine further the fractal protein regulatory mechanisms. 
 5. __Wikipedia steiner graphs__
 Inspired by the game of "wiki-surfing", the aim is to build a program which constructs an approximate (as NP-hard) steiner tree given a collection of topics on wikipedia. 
