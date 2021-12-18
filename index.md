@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/harrybooth/harrybooth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I studied Mathematics at the University of Warwick (MMath), before entering the world of work (finance). At some point I realised that a scratch had not been fully itched, and therefore embarked on the Scientific and Data Intensive Computing course at University College London on a part-time basis.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scientific and Data Intensive Computing
 
-### Markdown
+This section describes some example projects I completed as part of the course. I give a short description before providing links to code and written papers. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Final Course Projects
 
-```markdown
-Syntax highlighted code block
+# High Performance Computing in Python : 10 digit challenge
+# Numerical Optimisation : Support Vector Machines
+# Inverse Problems : Regularization, wavelet denoiser and poission noise model
+# Morphogenetic Programming: 
 
-# Header 1
-## Header 2
-### Header 3
+## Dissertation
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Growing Flags with Fractal Proteins
 
 [Link](url) and ![Image](src)
 ```
+### Current and Future Projects
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrybooth/harrybooth.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Process music with Julia
+# Fractal Development 
+# Wikipedia steiner graphs
