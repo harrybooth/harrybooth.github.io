@@ -17,7 +17,7 @@ Course leader: Marta Betcke. This project required us to research two optimizati
 3. __Inverse Problems - Regularization, Wavelet Denoisers and Poission Noise Models:__
 Course leader: Simon Arridge. This project required us to solve a variety of computational problems from a inverse problems selection of topics. My report can be found [here]() along with supporting notebooks.
 4. __Morphogenetic Programming:__
-Course leader: Martha Tsigkari. 7 mini projects, incl. 3D game of life, L-Systems, Genetic algorithms, and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. Scripts and animations can be found [here](). 
+Course leader: Martha Tsigkari. 6 mini projects, incl. 3D game of life, L-Systems, Particle Systems, Quad Trees, Genetic algorithms and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. Scripts and animations can be found [here](). 
 
 ### Dissertation
 
