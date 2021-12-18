@@ -21,11 +21,11 @@ _This project aimed to_
 
 ### Dissertation
 
-___Growing Flags with Fractal Proteins___
+1.___Growing Flags with Fractal Proteins___
 _This project aimed to . Stay tuned for the paper which is due to appear in the journal of artificial life in 2022 - [Link](url).  
 
 ## Current and Future Projects
 
-__Process music with Julia__
-__Fractal Development__ 
-__Wikipedia steiner graphs__
+1.__Process music with Julia__
+2.__Fractal Development__ 
+3.__Wikipedia steiner graphs__
