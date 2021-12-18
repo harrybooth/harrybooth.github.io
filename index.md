@@ -15,9 +15,11 @@ Course leader: Timo Betcke. This project required us to solve one of the problem
 2. __Numerical Optimisation - Support Vector Machines:__
 Course leader: Marta Betcke. This project required us to research two optimization methods within the context of support vector machines, and produce a study involving some computational experiments. I chose SMO (sequential minimal optimization) and stochastic gradient descent. My report achieved the maximum mark, and can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Numerical%20Optimisation) along with supporting notebooks.
 3. __Inverse Problems - Regularization, Wavelet Denoisers and Poission Noise Models:__
-Course leader: Simon Arridge. This project required us to solve a variety of computational problems from a selection of inverse problem topics. My report can be found [here]() along with supporting notebooks.
+Course leader: Simon Arridge. This project required us to solve a variety of computational problems from a selection of inverse problem topics. My report can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Inverse%20Problems) along with supporting notebooks.
 4. __Morphogenetic Programming:__
 Course leader: Martha Tsigkari. 6 mini projects, incl. 3D game of life, L-Systems, Particle Systems, Quad Trees, Genetic algorithms and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. Scripts and animations can be found [here](). 
+5. __Research Computing in C++: Multibody planetary simulator__
+Course leader: Jim Dobson. This project required us to build a a multibody planetary simulator, along with a command line user interface, in C++. The source code can be found [here](url). 
 
 ### Dissertation
 
