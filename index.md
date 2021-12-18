@@ -1,6 +1,6 @@
 ## About me
 
-I studied Mathematics at the University of Warwick (MMath), before entering the world of work (finance). At some point I realised that a scratch had not been fully itched, and therefore embarked on the Scientific and Data Intensive Computing course at University College London on a part-time basis. I completed the course in September 2021, receiving a distinction. 
+I studied Mathematics at the University of Warwick (MMath), before entering the world of work (finance). At some point I realised that a scratch had not been fully itched, and I therefore embarked on the Scientific and Data Intensive Computing course at University College London on a part-time basis. I completed the course in September 2021, receiving a distinction. 
 
 ![Image](src)
 
