@@ -17,7 +17,7 @@ Course leader: Marta Betcke. This project required us to research two optimizati
 3. __Inverse Problems - Regularization, Wavelet Denoisers and Poission Noise Models:__
 Course leader: Simon Arridge. This project required us to solve a variety of computational problems from a selection of inverse problem topics. My report can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Inverse%20Problems) along with supporting notebooks.
 4. __Morphogenetic Programming:__
-Course leader: Martha Tsigkari. 6 mini projects, incl. 3D game of life, L-Systems, Particle Systems, Quad Trees, Genetic algorithms and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. Scripts and animations can be found [here](). 
+Course leader: Martha Tsigkari. 6 mini projects, incl. 3D game of life, L-Systems, Particle Systems, Quad Trees, Genetic algorithms and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. Final boards on gene regulatory networks can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Morphogenetic%20Programming). 
 5. __Research Computing in C++: Multibody planetary simulator__
 Course leader: Jim Dobson. This project required us to build a a multibody planetary simulator, along with a command line user interface, in C++. The source code can be found [here](url). 
 
