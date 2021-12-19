@@ -11,7 +11,7 @@ This section describes some example projects I completed as part of the course. 
 ###  Final Course Projects
 
 1. __High Performance Computing in Python - In The Moment Of Heat:__
-Course leader: Timo Betcke. This project required us to solve one of the problems from the [Hundred-dollar, Hundred-digit Challenge](https://en.wikipedia.org/wiki/Hundred-dollar,_Hundred-digit_Challenge_problems). We were tasked with solving problem 8 - "In the moment of heat" - using only python. The jupyter notebook with my solution can be found [here](), and achieves 10 accurate digits.
+Course leader: Timo Betcke. This project required us to solve one of the ten problems from the [Hundred-dollar, Hundred-digit Challenge](https://en.wikipedia.org/wiki/Hundred-dollar,_Hundred-digit_Challenge_problems). We were tasked with solving problem 8 - "In the moment of heat" - using only python. The jupyter notebook with my solution can be found [here](), and achieves 10 accurate digits.
 2. __Numerical Optimisation - Support Vector Machines:__
 Course leader: Marta Betcke. This project required us to research two optimization methods within the context of support vector machines, and produce a study involving some computational experiments. I chose SMO (sequential minimal optimization) and stochastic gradient descent. My report achieved the maximum mark, and can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Numerical%20Optimisation) along with supporting notebooks.
 3. __Inverse Problems - Regularization, Wavelet Denoisers and Poission Noise Models:__
