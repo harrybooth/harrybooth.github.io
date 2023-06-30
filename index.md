@@ -18,5 +18,5 @@ Steve Reich defines process music not as, "the process of composition but rather
 2. __open ended evolution__
 Differential equations are often used to represent biological systems. Any equation is a representation. I am interested in different representations, particularly ones which can be exploited by in-silico evolution to generate vast but tractable complexity. How could we give in-silico evolution as much freedom as evolution has in the physical world?
 
-3. __ digital twins__
+3. __digital twins__
 Digital twins are a in-silico representation of some system. Often they adopt a bottom-up philosophy - the systems complexity emerges from modelling many interacting parts at the most basic level.  
