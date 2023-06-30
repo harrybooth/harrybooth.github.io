@@ -1,33 +1,22 @@
 ## About me
 
-I studied Mathematics at the University of Warwick (MMath), before entering the world of work (finance). At some point I realised that a scratch had not been fully itched, and I therefore embarked on the Scientific and Data Intensive Computing course at University College London on a part-time basis. I completed the course in September 2021, receiving a distinction. 
+I am a computational researcher at The Francis Crick Institute, working in the field of evolutionary development. I am a mathematician/computer scientist by training, and my research in evo-dev was really born out of my long held interests in complex system topics. I am always interested in seeking different abstractions of processes - the commonalities I find and the roads they take me down are responsible for an ever growing list of interests! 
 
-![Image](src)
+## Education / Work Experience
 
-##  UCL : Scientific and Data Intensive Computing
+I studied Mathematics at the University of Warwick (MMath), before working in quantitative finance (risk). At some point I realised that a scratch had not been itched, and so I embarked on the Scientific and Data Intensive Computing course at University College London on a part-time basis. This was completed in September 2021. I then left finance, and started a role as a Senior Laboratory Research Scientist in the [Hadjivasiliou Lab](https://www.crick.ac.uk/research/labs/zena-hadjivasiliou)
 
-This section describes some example projects I completed as part of the course. I give a short description before providing links to code and written reports. 
+### Publications
 
-###  Final Course Projects
+[1] Booth, Harry, and Peter J. Bentley. "The Evolution of Fractal Protein Modules in Multicellular Development." ALIFE 2022: The 2022 Conference on Artificial Life. MIT Press, 2022. [link][https://direct.mit.edu/isal/proceedings/isal2022/34/17/112280]
 
-1. __High Performance Computing in Python - In The Moment Of Heat:__
-Course leader: Timo Betcke. This project required us to solve one of the ten problems from the [Hundred-dollar, Hundred-digit Challenge](https://en.wikipedia.org/wiki/Hundred-dollar,_Hundred-digit_Challenge_problems). We were tasked with solving problem 8 - "In the moment of heat" - using only python. The jupyter notebook with my solution can be found [here](), and achieves 10 accurate digits.
-2. __Numerical Optimisation - Support Vector Machines:__
-Course leader: Marta Betcke. This project required us to research two optimization methods within the context of support vector machines, and produce a study involving some computational experiments. I chose SMO (sequential minimal optimization) and stochastic gradient descent. My report achieved the maximum mark, and can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Numerical%20Optimisation) along with supporting notebooks.
-3. __Inverse Problems - Regularization, Wavelet Denoisers and Poission Noise Models:__
-Course leader: Simon Arridge. This project required us to solve a variety of computational problems from a selection of inverse problem topics. My report can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Inverse%20Problems) along with supporting notebooks.
-4. __Morphogenetic Programming:__
-Course leader: Martha Tsigkari. 6 mini projects, incl. 3D game of life, L-Systems, Particle Systems, Quad Trees, Genetic algorithms and Gene Regulatory Networks. All experiments completed using grasshopper scripts (C#) and Rhino 3D. Final boards on gene regulatory networks can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/Morphogenetic%20Programming). 
-5. __Research Computing in C++: Multibody planetary simulator__
-Course leader: Jim Dobson. This project required us to build a a multibody planetary simulator, along with a command line user interface, in C++. The source code can be found [here](url). 
+## Other Projects and Interests
 
-### Dissertation
+1. __process music__
+Steve Reich defines process music not as, "the process of composition but rather pieces of music that are, literally, processes." I am interested in exploring the concept of music emerging from computational processes, in particular systems which mimic development. I intend to implement these experiments using [SuperCollider](https://supercollider.github.io/).
 
-1. __Growing Flags with Fractal Proteins__
-Supervised by Peter Bentley. The phenotypes of biological organisms are incredibly complex. Comparitively, the amount of genetic material is extremely small. This project investigated artificial models of development which permit compact genetic representations, from both a conceptual and experimental
-standpoint. The full dissertation report can be found [here](https://github.com/harrybooth/harrybooth.github.io/tree/main/GrowingFlagsWithFractals), along with [code](https://github.com/harrybooth/FractalDevelopment) and supporting [notebooks](https://github.com/harrybooth/FractalDevelopmentExperiments). Stay tuned for the paper, which we are aiming to publish in the [Journal Of Artificial Life](https://direct.mit.edu/artl).  
+2. __open ended evolution__
+Differential equations are often used to represent biological systems. Any equation is a representation. I am interested in different representations, particularly ones which can be exploited by in-silico evolution to generate vast but tractable complexity. How could we give in-silico evolution as much freedom as evolution has in the physical world?
 
-## Current and Future Projects
-
-1. __Process music with Julia__
-Steve Reich defines process music not as, "the process of composition but rather pieces of music that are, literally, processes." I am interested in exploring the concept of music emerging from computational processes, in particular artificial development systems. I intend to implement these experiments using [Julia Music](https://github.com/JuliaMusic) and [SuperCollider](https://supercollider.github.io/).
+3. __ digital twins__
+Digital twins are a in-silico representation of some system. Often they adopt a bottom-up philosophy - the systems complexity emerges from modelling many interacting parts at the most basic level.  
