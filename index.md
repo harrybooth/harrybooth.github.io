@@ -2,7 +2,7 @@
 
 I am a computational researcher at [The Francis Crick Institute](http://crick.ac.uk/), working in the field of evolutionary development. \\ 
 
-I am a mathematician/computer scientist by training - my research in evo-dev was really born out of my long held interests in complex system topics. \\
+I am a mathematician/computer scientist by training - my research in evo-dev was really born out of my long held interest in complex system topics. \\
 
 I am always interested in seeking different abstractions of processes - the commonalities I find and the roads they take me down are responsible for an ever growing list of interests! 
 
