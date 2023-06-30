@@ -1,6 +1,10 @@
 ## About me
 
-I am a computational researcher at The Francis Crick Institute, working in the field of evolutionary development. I am a mathematician/computer scientist by training, and my research in evo-dev was really born out of my long held interests in complex system topics. I am always interested in seeking different abstractions of processes - the commonalities I find and the roads they take me down are responsible for an ever growing list of interests! 
+I am a computational researcher at [The Francis Crick Institute](http://crick.ac.uk/), working in the field of evolutionary development. \\ 
+
+I am a mathematician/computer scientist by training - my research in evo-dev was really born out of my long held interests in complex system topics. \\
+
+I am always interested in seeking different abstractions of processes - the commonalities I find and the roads they take me down are responsible for an ever growing list of interests! 
 
 ## Education / Work Experience
 
@@ -8,7 +12,7 @@ I studied Mathematics at the University of Warwick (MMath), before working in qu
 
 ### Publications
 
-[1] [Booth, Harry, and Peter J. Bentley. "The Evolution of Fractal Protein Modules in Multicellular Development." ALIFE 2022: The 2022 Conference on Artificial Life. MIT Press, 2022.](https://direct.mit.edu/isal/proceedings/isal2022/34/17/112280)
+[1] Booth, Harry, and Peter J. Bentley. "The Evolution of Fractal Protein Modules in Multicellular Development." ALIFE 2022: The 2022 Conference on Artificial Life. MIT Press, 2022. [paper](https://direct.mit.edu/isal/proceedings/isal2022/34/17/112280)
 
 ## Other Projects and Interests
 
