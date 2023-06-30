@@ -8,7 +8,7 @@ I studied Mathematics at the University of Warwick (MMath), before working in qu
 
 ### Publications
 
-[1] Booth, Harry, and Peter J. Bentley. "The Evolution of Fractal Protein Modules in Multicellular Development." ALIFE 2022: The 2022 Conference on Artificial Life. MIT Press, 2022. [link][https://direct.mit.edu/isal/proceedings/isal2022/34/17/112280]
+[1] [Booth, Harry, and Peter J. Bentley. "The Evolution of Fractal Protein Modules in Multicellular Development." ALIFE 2022: The 2022 Conference on Artificial Life. MIT Press, 2022.][https://direct.mit.edu/isal/proceedings/isal2022/34/17/112280]
 
 ## Other Projects and Interests
 
